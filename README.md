@@ -1,1 +1,1 @@
-Hejka jestem tu bo lubię || [Mój bot]slodki.netlify.app
+Hejka jestem tu bo lubię || [Mój bot]https://slodki.netlify.app
